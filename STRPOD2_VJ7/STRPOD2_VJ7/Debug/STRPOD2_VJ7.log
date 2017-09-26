@@ -1,0 +1,4 @@
+﻿  STRPOD2_VJ7.c
+d:\users\duje\desktop\strukture podataka - jesen\strpod2_vj7\strpod2_vj7\strpod2_vj7.c(55): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  STRPOD2_VJ7.vcxproj -> D:\Users\duje\Desktop\Strukture podataka - jesen\STRPOD2_VJ7\Debug\STRPOD2_VJ7.exe
+  STRPOD2_VJ7.vcxproj -> D:\Users\duje\Desktop\Strukture podataka - jesen\STRPOD2_VJ7\Debug\STRPOD2_VJ7.pdb (Full PDB)
